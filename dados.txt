@@ -3,7 +3,7 @@ Dados do aluno
 -Primeiro Nome: Graziela
 -Profissão: Qualidade / Suporte
 -Cidade: Blumenau
--O que faz nas horas vagas: Estudo / Fico com a família
+-O que faz nas horas vagas: Estudo / Estar com família
 -Feedback sobre o curso Qualidade de Software: Um curso com uma ótima didática. Mesmo com pouca experiência na área, como eu, consigo pegar bem conteúdo.
 -Feedback sobre a plataforma de estudo da EBAC: A plataforma é prática e intuitiva.
 
